@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Deepthi S Reddy 👋
 
-<!--
-**DeepthiSReddy/DeepthiSReddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Science & Engineering Graduate
 
-Here are some ideas to get you started:
+## 💻 Technical Skills
+- Python
+- Django
+- React
+- SQL
+- HTML5
+- CSS3
+- JavaScript
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+- Advanced Django
+- REST APIs
+- React
+- Full Stack Development
+
+## 📂 Projects
+- 🤖 Smart Robotic Arm with Dust Detection
+- 🩺 Diabetes Prediction System
+- 🏢 Khata Application Tracking System
+- 💱 JavaScript API Currency Converter
+
+## 📫 Connect with Me
+- 📧 Email: deepthi1ga22is045@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/deepthisreddy
+
+⭐ Thanks for visiting my GitHub profile!
