@@ -14,9 +14,6 @@
 
 ## 🚀 Currently Learning
 - Advanced Django
-- REST APIs
-- React
-- Full Stack Development
 
 ## 📂 Projects
 - 🤖 Smart Robotic Arm with Dust Detection
