@@ -12,9 +12,6 @@
 - JavaScript
 - MySQL
 
-## 🚀 Currently Learning
-- Advanced Django
-
 ## 📂 Projects
 - 🤖 Smart Robotic Arm with Dust Detection
 - 🩺 Diabetes Prediction System
