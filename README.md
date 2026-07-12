@@ -1,18 +1,53 @@
-# 💫 About Me:
-## 👋 About Me<br><br>Hi, I'm **Deepthi S Reddy**, an Information Science and Engineering graduate with a strong interest in software development and technology.<br><br>I enjoy building web applications using **Python, Django, React, SQL, HTML, CSS, and JavaScript**. Through internships and academic projects, I have gained hands-on experience in developing applications, working with databases, and solving real-world problems.<br><br>I'm passionate about learning new technologies, enhancing my technical skills, and contributing to innovative projects. I continuously strive to improve my knowledge of software development, problem-solving, and modern development practices.<br><br>💻 **Tech Stack:** Python, Django, React, SQL, MySQL, HTML, CSS, JavaScript, Git
+# 💫 About Me
 
+Hi, I'm **Deepthi S Reddy**, an Information Science and Engineering graduate passionate about building scalable and user-friendly web applications.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deepthisreddy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepthi1ga22is045@gmail.com) 
+🚀 I am currently **actively seeking full-time Software Engineer, Python Developer, Django Developer, and Full Stack Developer opportunities** where I can contribute, learn, and grow as a software developer.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=DeepthiSReddy&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=DeepthiSReddy&theme=dark&hide_border=true)<br/>
+I enjoy developing applications using **Python, Django, React, SQL, HTML, CSS, and JavaScript**. Through internships and academic projects, I have gained hands-on experience in full-stack web development, database management, and solving real-world problems.
+
+I am passionate about learning new technologies, writing clean code, and continuously improving my technical and problem-solving skills.
+
+💼 **Open to:** Software Engineer | Full Stack Developer | Python Developer | Django Developer
+
+💻 **Tech Stack:** Python • Django • React • SQL • MySQL • HTML5 • CSS3 • JavaScript • Git • GitHub
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepthisreddy)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepthi1ga22is045@gmail.com)
+
+---
+
+# 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=DeepthiSReddy&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=DeepthiSReddy&theme=dark&hide_border=true)
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=DeepthiSReddy&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=DeepthiSReddy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://komarev.com/ghpvc/?username=DeepthiSReddy&color=0e75b6&style=flat)
+
+---
+
+⭐ **Actively seeking Software Engineer / Python Developer / Django Developer / Full Stack Developer opportunities. Feel free to connect with me!**
