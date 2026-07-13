@@ -8,7 +8,7 @@ I enjoy developing applications using **Python, Django, React, SQL, HTML, CSS, a
 
 I am passionate about learning new technologies, writing clean code, and continuously improving my technical and problem-solving skills.
 
-💼 **Open to:** Software Engineer | Full Stack Developer | Python Developer | Django Developer
+💼 **Open to:** Software Engineer | Full Stack Developer | Python Developer | Django Developer | other IT roles.
 
 💻 **Tech Stack:** Python • Django • React • SQL • MySQL • HTML5 • CSS3 • JavaScript • Git • GitHub
 
